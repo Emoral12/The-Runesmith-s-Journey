@@ -3,7 +3,13 @@ guid: e1a4a23fac3054b42a2f9f3efdbd01e4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - magicMissilePrefab: {instanceID: 0}
+  - firePrefab: {instanceID: 0}
+  - lightningPrefab: {instanceID: 0}
+  - icePrefab: {instanceID: 0}
+  - playerCamera: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

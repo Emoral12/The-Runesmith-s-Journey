@@ -6,6 +6,7 @@ TagManager:
   tags:
   - GameArea
   - Projectile
+  - Enemy
   layers:
   - Default
   - TransparentFX
